@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <span id="top"></span>
+    <h1>My Favorite Song</h1>
+    <h2>Remember the time</h2>
+    <h4>Introduction to Michael Jackson</h4>
+    <p>Michael Jackson was an American singer, songwriter, and dancer who is widely considered the "King of Pop".</p>
+    <ul type="disc">
+        <li>He had a unique dance style</li>
+        <li>His music videos were groundbreaking</li>
+        <li>He was known for his philanthropy</li>
+    </ul>
+    <br>
+    <h2>Key Songs by Michael Jackson</h2>
+    <p>Here are some of his most popular songs:</p>
+    <ol type="I">
+        <li>Remember the Time</li>
+        <li>Billie Jean</li>
+        <li>Beat It</li>
+    </ol>
+    <img src="1441212(1).jpg" alt="Michael Jackson" width="300">
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Song</th>
+                <th>Album</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Remember the Time</td>
+                <td>Bad</td>
+            </tr>
+            <tr>
+                <td>Billie Jean</td>
+                <td>Thriller</td>
+            </tr>
+            <tr>
+                <td>Beat It</td>
+                <td>Thriller</td>
+            </tr>
+        </tbody>
+    </table>
+ 
+    <a href="#top">Back to Top</a>
+    <a href="https://www.chelseafc.com" target="_blank">Visit Chelsea FC</a>
+</body>    
+</html>
